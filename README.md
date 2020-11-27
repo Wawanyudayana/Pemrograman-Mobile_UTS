@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Demo : https://youtu.be/J6Po7uoH4oI/
+Demo : 
 
 ## Getting Started
 
